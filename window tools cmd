@@ -1,7 +1,10 @@
 Install chocolatey from the instructions given in the link below.
 
 https://docs.chocolatey.org/en-us/choco/setup/
+steps to install chocolatey
+https://phoenixnap.com/kb/chocolatey-windows
 
+******************************************************************************
 for window operationg system
 
 choco install virtualbox --version=7.1.4 -y
